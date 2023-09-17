@@ -1,0 +1,6 @@
+{
+  "extends": "app/tsconfig.base",
+  "compilerOptions": {
+    "strict": true
+  }
+}
