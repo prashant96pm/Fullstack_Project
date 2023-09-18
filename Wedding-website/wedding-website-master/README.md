@@ -22,7 +22,7 @@ _See [wedding.rampatra.com](http://wedding.rampatra.com/) for a demo. Use invite
 5. That's it, open `index.html` file on your browser by just double clicking on it.
 
 # About Me
-Hello, my name is Prashant Marabe. I am an Professional 1 application delivery at [DXC Technology](https://dxc.com/us/en). I enjoy making teeny tiny applications to open-sourcing the project. Hope you like this website.
+Hello! my name is Prashant Marabe. I am an Professional 1 application delivery at [DXC Technology](https://dxc.com/us/en). I enjoy making teeny tiny applications to open-sourcing the project. Hope you like this website.
 
 # Contribute
 Firstly, a big thanks 🙏🏻 for the overwhelming response on [HackerNews](https://news.ycombinator.com/item?id=18556787). I would be more than happy for [PRs](https://help.github.com/articles/about-pull-requests/)
