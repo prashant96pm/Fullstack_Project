@@ -19,7 +19,7 @@ _See [wedding.rampatra.com](http://wedding.rampatra.com/) for a demo. Use invite
 2. `$ cd wedding-website` - go inside the project directory 
 3. `$ npm install` - install dependencies
 4. `$ gulp` - compile sass to css, minify js, etc.
-5. That's it, open `index.html` file on your browser by just double-clicking on it.
+5. That's it, open `index.html` file on your browser by just double clicking on it.
 
 # About Me
 Hello, my name is Prashant Marabe. I am an Professional 1 application delivery at [DXC Technology](https://dxc.com/us/en). I enjoy making teeny tiny applications to open-sourcing the project. Hope you like this website.
