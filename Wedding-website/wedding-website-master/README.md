@@ -11,7 +11,7 @@ _See [wedding.rampatra.com](http://wedding.rampatra.com/) for a demo. Use invite
 6. A nice __Youtube video__ showing your venue.
 7. __Google Map__ showing your venue's location.
 8. Start and run the website __completely free__. No hosting, backend server, or database required as you can use
-   [GitHub Pages](https://pages.github.com/) to host and Google sheets (with the help of Google scripts) to store RSVP
+   [GitHub Pages](https://pages.github.com/) to host and Google sheets (with the help of Google scripts) to store RSVP (Please Respond)
    data.
 
 # Getting Started
