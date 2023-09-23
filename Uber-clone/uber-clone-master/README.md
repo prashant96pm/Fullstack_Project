@@ -8,7 +8,7 @@
 
 - Run Project Locally: `npm start`
 
-## Technologies
+## Technologie
 
 - React Native
 - Redux
