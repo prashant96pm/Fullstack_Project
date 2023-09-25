@@ -23,7 +23,7 @@ gulp.task('minify-js', function () {
     return gulp.src('./js/scripts.js')
         .pipe(uglify())
         .pipe(rename({basename: 'scripts.min'}))
-        .pipe(gulp.dest('./js'));
+        .pipe(gulp.dest('./js'));;
 });
 
 // default task
